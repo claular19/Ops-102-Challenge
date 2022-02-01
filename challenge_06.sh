@@ -2,12 +2,12 @@
 
 # Detect if file or directory exists
 
-filename=./hellos.sh
+filename=./hello.sh
 
 if [[ -f "$filename" ]]; then
 	echo "$filename  exists."
 else
-	touch hellos.sh
+	touch hello.sh
 	echo "$filename does not exist, but will create it."
 fi
 
