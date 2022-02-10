@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script Name: 201 Ops Challenge 10
+# Script Name: 201 Ops Challenge 13
 # Author: Lars Clausen
 # Date of last revision: 2/9/2022
 
