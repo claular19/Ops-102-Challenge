@@ -1,6 +1,6 @@
 # Ops-201-Challenge
 
-This repo is a culmination of all my coding challenges completed while in my Code Fellows Ops 201 course.
+This repo is a culmination of all my coding challenges completed while in my Code Fellows Ops 201 course. 
 
 As I begin my journey into the tech workforce, learning these coding fundamentals are incredibly valuable for a wide array of specific jobs. Learning directly how to navigate and
 utilize the Linux terminal and Windows Powershell allows me to gain a basic understanding of its functionality, that I can continue to build and grow off of.
